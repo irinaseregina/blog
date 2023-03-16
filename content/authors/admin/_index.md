@@ -64,5 +64,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Серёгина Ирина - студентка РУДН, увлекаюсь игрой на гитаре, пением и сочинением музыки. Сейчас учусь на физико-математическом факультете, изучаю программирование и различные виды математики. Не знаю, чем буду заниматься в будущем, так как в школе я изучала химию и биологию((
 {style="text-align: justify;"}
